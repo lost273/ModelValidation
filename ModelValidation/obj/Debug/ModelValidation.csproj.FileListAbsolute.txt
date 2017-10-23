@@ -44,3 +44,10 @@ D:\programs\Projects\GIT\ModelValidation\ModelValidation\bin\System.Web.Mvc.xml
 D:\programs\Projects\GIT\ModelValidation\ModelValidation\obj\Debug\ModelValidation.csprojResolveAssemblyReference.cache
 D:\programs\Projects\GIT\ModelValidation\ModelValidation\obj\Debug\ModelValidation.dll
 D:\programs\Projects\GIT\ModelValidation\ModelValidation\obj\Debug\ModelValidation.pdb
+D:\programs\Projects\GIT\ModelValidation\ModelValidation\bin\Antlr3.Runtime.dll
+D:\programs\Projects\GIT\ModelValidation\ModelValidation\bin\Newtonsoft.Json.dll
+D:\programs\Projects\GIT\ModelValidation\ModelValidation\bin\System.Web.Optimization.dll
+D:\programs\Projects\GIT\ModelValidation\ModelValidation\bin\WebGrease.dll
+D:\programs\Projects\GIT\ModelValidation\ModelValidation\bin\Antlr3.Runtime.pdb
+D:\programs\Projects\GIT\ModelValidation\ModelValidation\bin\Newtonsoft.Json.xml
+D:\programs\Projects\GIT\ModelValidation\ModelValidation\bin\System.Web.Optimization.xml
